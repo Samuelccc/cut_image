@@ -64,10 +64,3 @@ python3 cut_pic.py
 
 <img width="240" src="https://github.com/yangxuan0928/cut_image/blob/master/doc/WechatIMG198.png" alt="">
 
-## 推荐
-查看文档及视频教程，请关注微信公众号：**大数据前沿** 消息窗口回复：**微信切图**
-
-扫码下方二维码关注，更多好玩的项目及干货等着你。
-
-<img width="240" src="https://github.com/yangxuan0928/cut_image/blob/master/doc/%E4%BA%8C%E7%BB%B4%E7%A0%81.png" alt="">
-
